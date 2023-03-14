@@ -23,7 +23,7 @@ https://github.com/AmauryChronowski/Spece_Invader_Python_CHRONOWSKI_JOBERT--ROLL
 
 
 # Créateurs
-Amaury CHRONOWSKI et Gabin JOBERT--ROLLIN
+Amaury CHRONOWSKI et [Gabin JOBERT--ROLLIN](https://github.com/GabinJOBERTROLLIN)
 
 
 # Source des images utilisées non libres de droits 
